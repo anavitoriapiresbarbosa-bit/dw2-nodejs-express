@@ -15,7 +15,7 @@ var cidade = "Sete Barras";
 document.write(cidade);
 
 let nome = "cibelly";
-let nome = "maria";
+// let nome = "maria";
  
 document.write("<br>");
 document.write(nome);
